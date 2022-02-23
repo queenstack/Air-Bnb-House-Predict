@@ -11,7 +11,7 @@ st.write("""
 """)
 
 
-image=Image.open('p.jpg')
+image=Image.open('glucose.jpg')
 st.image(image,caption='hello world')
 
 model = pickle.load(open('class_model.pkl', 'rb'))
