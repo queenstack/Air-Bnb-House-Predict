@@ -7,7 +7,7 @@ from PIL import Image
 
 
 st.write("""
-# DIABETICS STATUS PREDICTION APP!
+# DIABETICS STATUS PREDICTION APP!!
 """)
 
 
